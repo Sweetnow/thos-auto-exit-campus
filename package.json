@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^11.0.0",
+    "strftime": "^0.10.0"
+  }
+}
